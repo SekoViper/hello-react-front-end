@@ -112,7 +112,8 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository by using the command line : 
-- `git clone https://github.com/SekoViper/hello-react-front-end.git`
+- frontend `git clone https://github.com/SekoViper/hello-react-front-end.git`
+- backend `git clone https://github.com/SekoViper/hello-rails-back-end`
 
 ### Install
 
